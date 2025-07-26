@@ -18,3 +18,5 @@
 #### The code of generating no-embedding text by well-trained LM with random sampling (Generated_Cover.py)
 #### The code of Huffman algorithm (Huffman.py)
 #### The other codes of these text-stegangography methods (utils.py)
+
+#### GTSD is a generative steganography based on Diffusion Model, and published on International Conference on Neural Information Processing (2024) [(paper link)]([https://ieeexplore.ieee.org/abstract/document/10299660/](https://arxiv.org/pdf/2504.19433))
