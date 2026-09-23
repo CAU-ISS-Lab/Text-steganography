@@ -21,3 +21,5 @@
 
 ## Generative Text Steganography Based on Diffusion Model
 #### GTSD is a generative steganography based on Diffusion Model, and published on International Conference on Neural Information Processing (2024) [(paper link)](https://arxiv.org/pdf/2504.19433)
+#### LLM_Stega is a generative steganography based on Large Language Model, and publushed on ACM Multimedia conference (2024)[(paper link)](https://dl.acm.org/doi/pdf/10.1145/3664647.3680562)
+#### DyCo_Stega is a generative steganography based on Multimedia Large Language Model, and publushed on ACM Multimedia conference (2026)[(paper link)](https://arxiv.org/pdf/2604.20269)
